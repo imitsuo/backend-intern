@@ -21,6 +21,9 @@ https://realpython.com/python-virtual-environments-a-primer/
 ### REST API - PATTERN
 https://realpython.com/api-integration-in-python/
 
+### Fastapi
+https://fastapi.tiangolo.com/tutorial/
+
 ### Merge Conflicts
 https://www.cloudbees.com/blog/resolve-github-merge-conflicts
 
