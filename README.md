@@ -41,4 +41,5 @@ https://auth0.com/docs/quickstart/backend/python/01-authorization
 ### VsCode
 
 - flake8
+
 https://github.com/imitsuo/backend-intern/blob/main/tutoriais/flake8_vscode.md
