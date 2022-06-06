@@ -37,3 +37,6 @@ https://realpython.com/lessons/testing-your-code-with-pytest-summary/
 ### JWT
 https://realpython.com/token-based-authentication-with-flask/   
 https://auth0.com/docs/quickstart/backend/python/01-authorization   
+
+### Configurar flake8 no VsCode
+https://github.com/imitsuo/backend-intern/blob/main/tutoriais/flake8_vscode.md
