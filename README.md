@@ -7,7 +7,7 @@ https://peps.python.org/pep-0008/
   - VS Code
   - Docker
   - Docker-Compose
-  - RoboMongo
+  - RoboMongo | Compass
   - Postman
   - Pip
   - Virtualenv
